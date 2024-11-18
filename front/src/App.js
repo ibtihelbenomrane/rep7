@@ -4,7 +4,8 @@ import Register from './Register';
 function App() {
   return (
     <div className="App">
-      <h1>hi pti</h1>
+      <h1>hi laila</h1>
+      <h1>jjjjjjjjjjjjjjjjjj</h1>
       <Register />
     </div>
   );
